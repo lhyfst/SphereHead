@@ -28,7 +28,7 @@ Abstract: *While recent advances in 3D-aware Generative Adversarial Networks (GA
 
 ## Getting started
 
-Download the whole `models` folder from [link]() and put it under the root dir.
+Create `models` folder under the root dir. Then download our model checkpoint from [link](https://cuhko365-my.sharepoint.com/:u:/g/personal/223010106_link_cuhk_edu_cn/EUU4STpe1p5HhLKIYgxuN6YBWNxVKac0WCXzoDLSJPn4RA?e=pOyGkK) and put it under the `models` folder.
 
 
 ## Generating samplings
