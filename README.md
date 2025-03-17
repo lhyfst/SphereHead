@@ -68,7 +68,7 @@ python gen_videos_interp.py --network models/spherehead-ckpt-025000.pkl --trunc 
 
 ## Data processing toolbox and WildHead dataset
 
-We have developed a data processing toolbox designed to prepare 360 degree head images for training and testing. The toolbox is available at [chence17/WildHead.DatProc](https://github.com/chence17/WildHead.DatProc). Utilizing this toolbox, we constructed the WildHead dataset, which will be organized and released in the near future. Please refer to the paper and supplementary material for more details about the toolbox and dataset. If you believe any image in the dataset infringes on your privacy, please [contact us](heyuanli@link.cuhk.edu.cn) for immediate removal.
+We have developed a data processing toolbox designed to prepare 360 degree head images for training and testing. The toolbox is available at [chence17/WildHead.DatProc](https://github.com/chence17/WildHead.DatProc). Utilizing this toolbox, we constructed the WildHead dataset. To gain access, please download and complete the [WildHead Dataset Release Agreement](WildHead_Dataset_Release_Agreement.pdf), then send the signed agreement to heyuanli@link.cuhk.edu.cn. Please refer to the paper and supplementary material for more details about the toolbox and dataset. If you believe any image in the dataset infringes on your privacy, please [contact us](heyuanli@link.cuhk.edu.cn) for immediate removal.
 
 
 
