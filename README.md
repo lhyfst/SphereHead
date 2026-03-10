@@ -91,6 +91,43 @@ If you find our repo helpful, please cite our paper using the following bib:
 
 This repo is heavily based off the [NVlabs/eg3d](https://github.com/NVlabs/eg3d) repo and the [SizheAn/PanoHead](https://github.com/SizheAn/PanoHead) repo; Huge thanks to the authors for their contributions!
 
+---
+
+## 🚀 Follow-up Work: 
+
+### HyPlaneHead (NIPS 2025)
+
+We are excited to further introduce our follow-up work, **HyPlaneHead**, which introduces hy-plane, a more efficient tri-plane-like representation, resulting in better detail generation.
+
+**HyPlaneHead: Rethinking Tri-plane-like Representations in Full-Head Image Synthesis** <br>
+*Heyuan Li, Kenkun Liu, Lingteng Qiu, Qi Zuo, Keru Zheng, Zilong Dong, Xiaoguang Han*
+<br>
+[**[Project Page]**](https://lhyfst.github.io/hyplanehead/) | [**[Paper]**](https://arxiv.org/abs/2509.16748)
+
+```bibtex
+@article{li2025hyplanehead,
+  title={HyPlaneHead: Rethinking Tri-plane-like Representations in Full-Head Image Synthesis},
+  author={Li, Heyuan and Liu, Kenkun and Qiu, Lingteng and Zuo, Qi and Zheng, Keru and Dong, Zilong and Han, Xiaoguang},
+  journal={arXiv preprint arXiv:2509.16748},
+  year={2025}
+}
+```
 
 
+### BalanceHead (ICLR 2026)
 
+We are excited to introduce our follow-up work, **BalanceHead**, which addresses the deep-rooted issue of **directional bias** in 3D-aware GANs. By overcoming this challenge, it **unleashes the latent diversity** of the generative model, achieving true generalization in full-head synthesis.
+
+**Condition Matters in Full-head 3D GANs** <br>
+*Heyuan Li, Huimin Zhang, Yuda Qiu, Zhengwentai Sun, Keru Zheng, Lingteng Qiu, Peihao Li, Qi Zuo, Ce Chen, Yujian Zheng, Yuming Gu, Zilong Dong, Xiaoguang Han*
+<br>
+[**[Project Page]**](https://lhyfst.github.io/balancehead/) | [**[Paper]**](https://arxiv.org/abs/2602.07198)
+
+```bibtex
+@article{li2026condition,
+  title={Condition Matters in Full-head 3D GANs},
+  author={Li, Heyuan and Zhang, Huimin and Qiu, Yuda and Sun, Zhengwentai and Zheng, Keru and Qiu, Lingteng slogans, Li, Peihao and Zuo, Qi and Chen, Ce and Zheng, Yujian and others},
+  journal={arXiv preprint arXiv:2602.07198},
+  year={2026}
+}
+```

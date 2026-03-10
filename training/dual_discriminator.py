@@ -424,7 +424,7 @@ class MaskDualDiscriminatorV2(torch.nn.Module):
     
 # Tri-discriminator: upsampled image, super-resolved image, and segmentation mask
 @persistence.persistent_class
-class HoloDiscriminator(torch.nn.Module):
+class SHDiscriminator(torch.nn.Module):
     def __init__(self,
         c_dim,                          # Conditioning label (C) dimensionality.
         img_resolution,                 # Input resolution.
